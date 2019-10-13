@@ -31,7 +31,7 @@
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-03`;
+2. Entre na pasta rodando `cd bootcamp-gostack-02`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn dev` para iniciar o servidor.
 
